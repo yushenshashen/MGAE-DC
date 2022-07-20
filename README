@@ -1,0 +1,46 @@
+# SDCNet
+This is the implementation code of MGAE-DC, a deep learning framework for predicting the synergistic effects of drug combinations through multi-channel graph autoencoders
+
+## Requirements
+Python 3.8 or higher  
+pandas 1.3.5
+numpy 1.21.2
+tensorflow 2.4.1    
+
+
+## Datasets
+1. O'Neil dataset
+2. ALMANAC dataset
+3. CLOUD datset
+4. FORCINA datset
+
+
+## Training
+python get_training.py 
+The most commonly used datset, O'Neil dataset with Loewe score, is used as an example to training the model. 
+
+|Argument|Default|Description|
+|---|---|----|
+| learning_rate|  0.001|  Initial learning rate. |
+| epochs|  10000|  The number of training epochs. |
+| embedding_dim|  320|  The number of dimension for drug embeddings. |
+| dropout|  0.2|  Dropout rate (1 - keep probability) |
+| weight_decay|  0|  Weight for L2 loss on embedding matrix. |
+| val_test_size|  0.1|  the rate of validation and test samples. |
+
+
+## Reference
+Please cite our work if you find our code/paper is useful to your work.
+
+```   
+@article{Zhang, 
+title={MGAE-DC: predicting the synergistic effects of drug combinations through multi-channel graph autoencoders}, 
+author={Peng Zhang, Shikui Tu, Wen Zhang, Lei Xu}, 
+journal={Bioinformatics}, 
+volume={}, 
+number={}, 
+year={2022}, 
+month={}, 
+pages={} 
+}
+```
