@@ -1,0 +1,758 @@
+drugname1	drugname2	cell_line	synergy	fold
+(-)-Blebbistatin	temozolomide	T98G	13.1761498783657	6
+levamisole	temozolomide	T98G	6.94832833910989	6
+Matrine	temozolomide	T98G	8.41478481523058	0
+10058-F4	temozolomide	T98G	13.0910996298272	1
+Tanespimycin	temozolomide	T98G	5.25644421128331	7
+20-HYDROXYECDYSONE	temozolomide	T98G	11.0079273661016	2
+5-hydroxytryptophan	temozolomide	T98G	8.59320965220684	5
+A-674563	temozolomide	T98G	13.5266683904198	0
+BMS-599626	temozolomide	T98G	27.5798034285276	4
+ACADESINE	temozolomide	T98G	15.1577884409871	1
+ACIPIMOX	temozolomide	T98G	11.926055554732	9
+Acitretin	temozolomide	T98G	22.4024124891661	6
+ADEFOVIR DIPIVOXIL	temozolomide	T98G	13.6223792903832	2
+adenosine	temozolomide	T98G	22.6950222936165	1
+ADX-47273	temozolomide	T98G	22.8349613133316	6
+Afatinib	temozolomide	T98G	38.1162002660895	9
+AG-1478	temozolomide	T98G	24.693204138301	7
+AGI-5198	temozolomide	T98G	8.45894789243293	4
+Albendazole oxide	temozolomide	T98G	10.9594271807791	4
+Alibendol	temozolomide	T98G	27.7571179744196	2
+Aloe-emodin	temozolomide	T98G	24.8204534847594	6
+Aloperine	temozolomide	T98G	7.79738009065919	2
+alprostadil	temozolomide	T98G	4.83460637715454	6
+altretamine	temozolomide	T98G	19.0580976011617	6
+Ambrisentan	temozolomide	T98G	37.206084845101	1
+AMG-458	temozolomide	T98G	30.6156632237354	8
+AMILORIDE HYDROCHLORIDE	temozolomide	T98G	8.57387475079886	0
+amprenavir	temozolomide	T98G	43.3517902702823	6
+Amuvatinib	temozolomide	T98G	34.0166571041431	5
+Anacetrapib	temozolomide	T98G	24.8995452745375	8
+anastrozole	temozolomide	T98G	7.35941947171325	7
+Andrographolide	temozolomide	T98G	12.2785362558285	4
+aniracetam	temozolomide	T98G	9.94610575055052	4
+Apatinib	temozolomide	T98G	24.194585641915	8
+Apixaban	temozolomide	T98G	5.80974999867343	6
+AR-42	temozolomide	T98G	7.69825299199509	9
+arbutin	temozolomide	T98G	16.4760550166976	8
+arecoline	temozolomide	T98G	24.9959509238549	0
+Artemether	temozolomide	T98G	3.90985761034658	8
+AS-604850	temozolomide	T98G	24.7552085031228	9
+Asenapine	temozolomide	T98G	17.5733320929207	6
+aspirin	temozolomide	T98G	19.8407054842908	6
+AST-1306	temozolomide	T98G	38.3854685354573	4
+Astragaloside A	temozolomide	T98G	10.7738674128086	9
+Onalespib	temozolomide	T98G	3.1321891106836	8
+ATORVASTATIN CALCIUM	temozolomide	T98G	20.6112604230188	8
+ATOVAQUONE	temozolomide	T98G	12.9807676992987	3
+Aurora A Inhibitor I	temozolomide	T98G	19.9692920553257	7
+Avasimibe	temozolomide	T98G	23.8568162083449	3
+Avobenzone	temozolomide	T98G	8.77178337055143	2
+Axitinib	temozolomide	T98G	6.11950708547366	9
+Sapitinib	temozolomide	T98G	31.2021149990363	4
+Azelnidipine	temozolomide	T98G	8.26895308313681	0
+azithromycin	temozolomide	T98G	13.1185018875624	3
+aztreonam	temozolomide	T98G	4.40167963478292	7
+baicalein	temozolomide	T98G	7.84299640704231	1
+Bardoxolone methyl	temozolomide	T98G	10.142819668676	9
+batimastat	temozolomide	T98G	37.4911386704916	6
+Belinostat	temozolomide	T98G	20.3308921010261	0
+bergenin	temozolomide	T98G	3.46785075827744	4
+betaxolol	temozolomide	T98G	6.52831816400258	8
+Bexarotene	temozolomide	T98G	30.0670930583248	1
+BI-D1870	temozolomide	T98G	7.66346375167629	9
+bicalutamide	temozolomide	T98G	17.7126101701909	8
+Bilobalide	temozolomide	T98G	14.3199768895195	4
+Bimatoprost	temozolomide	T98G	12.3446292236045	3
+Bindarit	temozolomide	T98G	16.3276902094982	4
+Doramapimod	temozolomide	T98G	11.1578461101631	6
+Birinapant	temozolomide	T98G	15.2388507480497	5
+BIX02188	temozolomide	T98G	19.1961332080839	3
+BMS-378806	temozolomide	T98G	6.17226567379356	6
+BMS-754807	temozolomide	T98G	3.98662171491424	7
+BMS-777607	temozolomide	T98G	34.4019252692898	7
+BMS-833923	temozolomide	T98G	28.7150954698999	0
+Bosutinib	temozolomide	T98G	22.8100774489488	2
+Brivanib	temozolomide	T98G	32.0555830490283	9
+busulfan	temozolomide	T98G	30.9677240962077	7
+BUTOCONAZOLE NITRATE	temozolomide	T98G	23.4316435671007	5
+BX-912	temozolomide	T98G	43.9345884373558	3
+alpelisib	temozolomide	T98G	51.5932884245052	5
+Cabozantinib	temozolomide	T98G	47.3680707185237	2
+Idelalisib	temozolomide	T98G	35.2295087779749	2
+carbidopa	temozolomide	T98G	2.70099100376159	3
+carmofur	temozolomide	T98G	18.0923018411503	8
+carvedilol	temozolomide	T98G	16.8976001838326	7
+CAY10505	temozolomide	T98G	12.0261171964778	5
+Cediranib	temozolomide	T98G	29.9380720372743	8
+CEP-32496	temozolomide	T98G	41.4968169250162	6
+CEP-33779	temozolomide	T98G	33.0734987027891	9
+cephalexin	temozolomide	T98G	11.8972850605193	2
+chenodeoxycholic acid	temozolomide	T98G	19.2867425077899	7
+chlormezanone	temozolomide	T98G	20.1782809493014	5
+chlorothiazide	temozolomide	T98G	8.65646287131609	9
+chloroxine	temozolomide	T98G	19.2227822035786	0
+chlorzoxazone	temozolomide	T98G	16.2558039957011	8
+Chrysophanol	temozolomide	T98G	27.7394527744244	0
+Tacedinaline	temozolomide	T98G	10.0309510758199	9
+Cilengitide	temozolomide	T98G	51.5923092399612	1
+Cinacalcet hydrochloride	temozolomide	T98G	22.5714203719785	4
+Ciprofibrate	temozolomide	T98G	18.9872759717325	2
+Cisatracurium besylate	temozolomide	T98G	11.0587507446684	8
+clarithromycin	temozolomide	T98G	21.4087394386573	8
+Clevudine	temozolomide	T98G	23.1007096812224	0
+clindamycin	temozolomide	T98G	18.8392954659347	1
+Clindamycin hydrochloride	temozolomide	T98G	20.666067497811	7
+clinofibrate	temozolomide	T98G	26.5647890585748	1
+clofibric acid	temozolomide	T98G	28.0310700234958	8
+clopidogrel	temozolomide	T98G	2.68059408266324	3
+CLORSULON	temozolomide	T98G	17.3133624208184	3
+clotrimazole	temozolomide	T98G	22.8390116323574	2
+CNX-774	temozolomide	T98G	26.1192912994423	5
+Rociletinib	temozolomide	T98G	29.8897705906868	3
+CORTISONE ACETATE	temozolomide	T98G	11.0287083727733	8
+Costunolide	temozolomide	T98G	6.09179306993377	6
+CP-673451	temozolomide	T98G	4.30840201828703	5
+CP-724714	temozolomide	T98G	15.6459836687039	3
+CP-91149	temozolomide	T98G	16.100423256874	6
+Crizotinib	temozolomide	T98G	6.04714083837577	0
+CUDC-101	temozolomide	T98G	14.8804916173039	0
+curcumin	temozolomide	T98G	8.35615285505571	5
+Curcumol	temozolomide	T98G	11.7098421654669	6
+Silmitasertib	temozolomide	T98G	29.6702261690462	9
+cyclophosphamide	temozolomide	T98G	17.6802993503726	0
+cyclosporin A	temozolomide	T98G	36.9715685722609	7
+CYPROTERONE ACETATE	temozolomide	T98G	11.5290960502042	5
+cytidine	temozolomide	T98G	20.8311740456345	9
+pantothenic acid	temozolomide	T98G	4.35920078922228	5
+BIBR-1048	temozolomide	T98G	12.5561253037378	2
+Dabrafenib	temozolomide	T98G	19.8474157345279	3
+Dacomitinib	temozolomide	T98G	73.7777650969965	1
+daidzein	temozolomide	T98G	17.1345701437668	0
+Dalcetrapib	temozolomide	T98G	10.2137822618561	6
+Danusertib	temozolomide	T98G	4.24031511800091	1
+Dapagliflozin	temozolomide	T98G	8.97630862080887	9
+Dapoxetine hydrochloride	temozolomide	T98G	25.751987660437	1
+Dasatinib	temozolomide	T98G	9.10395617981574	6
+Decitabine	temozolomide	T98G	21.3192884954471	2
+DESONIDE	temozolomide	T98G	22.6072909170427	9
+DICLAZURIL	temozolomide	T98G	6.18375468026946	3
+Dienogest	temozolomide	T98G	9.31881697171539	7
+diethylstilbestrol	temozolomide	T98G	13.0569821376188	9
+Dihydroartemisinin	temozolomide	T98G	16.6969442480485	2
+Dihydromyricetin	temozolomide	T98G	13.4619488758677	2
+Dimethyl fumarate	temozolomide	T98G	12.9041053744973	4
+diosmin	temozolomide	T98G	5.88912953853445	5
+dipyridamole	temozolomide	T98G	25.8397597344389	4
+domperidone	temozolomide	T98G	14.5746490216884	6
+Droxinostat	temozolomide	T98G	5.01621098132325	9
+DULOXETINE HYDROCHLORIDE	temozolomide	T98G	19.7476287752044	1
+Dutasteride	temozolomide	T98G	5.29810092539109	2
+dydrogesterone	temozolomide	T98G	10.7726292014314	5
+dyphylline	temozolomide	T98G	4.23784177553054	0
+Eltrombopag	temozolomide	T98G	16.8782543555951	0
+Elvitegravir	temozolomide	T98G	31.0695699922171	1
+emodin	temozolomide	T98G	16.2213794700758	7
+Emtricitabine	temozolomide	T98G	6.27707840105647	0
+enoxacin	temozolomide	T98G	21.0377051609927	7
+enoxolone	temozolomide	T98G	4.69019884661928	5
+ENTACAPONE	temozolomide	T98G	15.2875347879977	4
+Entinostat	temozolomide	T98G	7.45088422264543	4
+Enzalutamide	temozolomide	T98G	24.8366651380802	1
+Tazemetostat	temozolomide	T98G	11.2783183896644	7
+ERASTIN	temozolomide	T98G	29.9056430529639	4
+Erdosteine	temozolomide	T98G	3.07854914203539	7
+ERGOSTEROL	temozolomide	T98G	27.1263741759505	7
+estradiol	temozolomide	T98G	16.7940429794952	5
+estriol	temozolomide	T98G	19.981897533237	6
+ethinyl estradiol	temozolomide	T98G	3.47025129842527	7
+Etomidate	temozolomide	T98G	4.58585610562942	2
+etoposide	temozolomide	T98G	30.1247699367256	1
+Evodiamine	temozolomide	T98G	4.38693400812211	9
+Ezetimibe	temozolomide	T98G	9.15981195022624	4
+famciclovir	temozolomide	T98G	10.5695125653353	0
+famotidine	temozolomide	T98G	24.1305959202288	1
+Febuxostat	temozolomide	T98G	3.04652534282915	8
+felbamate	temozolomide	T98G	7.3477700183853	1
+fenofibrate	temozolomide	T98G	10.9784284434646	3
+FENTICONAZOLE NITRATE	temozolomide	T98G	5.40378182604625	3
+Roxadustat	temozolomide	T98G	9.11485298394898	3
+Fingolimod hydrochloride	temozolomide	T98G	3.44280452279981	1
+fluconazole	temozolomide	T98G	16.0551776987188	4
+FLUOCINOLONE ACETONIDE	temozolomide	T98G	3.1527713891515	1
+flurbiprofen	temozolomide	T98G	7.99662392004234	8
+flutamide	temozolomide	T98G	18.3458069191528	3
+Foretinib	temozolomide	T98G	4.46834624753664	8
+formestane	temozolomide	T98G	4.27404637419051	2
+Fostamatinib	temozolomide	T98G	5.25973085859584	4
+Fulvestrant	temozolomide	T98G	22.5446376843404	5
+furosemide	temozolomide	T98G	3.36698928241108	1
+Galeterone	temozolomide	T98G	37.7024341875205	2
+Ipatasertib	temozolomide	T98G	18.4915702292255	0
+GDC-0152	temozolomide	T98G	36.227969095709	7
+GDC-0349	temozolomide	T98G	17.8002577148073	5
+Gefitinib	temozolomide	T98G	17.6404693172131	7
+geldanamycin	temozolomide	T98G	20.0816012424929	9
+gemfibrozil	temozolomide	T98G	8.69254434711608	9
+Geniposidic acid	temozolomide	T98G	8.98598705548035	3
+genistein	temozolomide	T98G	6.31231964337248	6
+Ginkgolide A	temozolomide	T98G	26.3813504050233	3
+Ginkgolide B	temozolomide	T98G	9.70884878815837	7
+gliclazide	temozolomide	T98G	17.3062199024131	8
+glimepiride	temozolomide	T98G	12.7460604287615	8
+glipizide	temozolomide	T98G	13.7145318134548	4
+Golvatinib	temozolomide	T98G	37.2945068751248	9
+haloperidol	temozolomide	T98G	8.15931707804712	6
+Arry-380	temozolomide	T98G	5.5373566371369	5
+hesperadin	temozolomide	T98G	2.83830722093188	1
+hesperetin	temozolomide	T98G	28.4551617816165	6
+hexestrol	temozolomide	T98G	20.6573307177618	2
+Honokiol	temozolomide	T98G	5.90628901133723	2
+hydrochlorothiazide	temozolomide	T98G	6.74524417952539	3
+hydroxyurea	temozolomide	T98G	24.3434162953043	9
+Ibrutinib	temozolomide	T98G	21.942811789398	3
+Icariin	temozolomide	T98G	14.3254092778678	0
+ICG-001	temozolomide	T98G	20.7075561349111	8
+ID-8	temozolomide	T98G	20.4472628896233	5
+idebenone	temozolomide	T98G	14.7067762840633	2
+idoxuridine	temozolomide	T98G	14.8476098287118	2
+Iloperidone	temozolomide	T98G	10.3479572955459	2
+Imatinib	temozolomide	T98G	33.5279150501727	1
+IMD-0354	temozolomide	T98G	7.33757558170308	7
+capmatinib	temozolomide	T98G	30.6480667537059	2
+indapamide	temozolomide	T98G	16.6642996102265	0
+indomethacin	temozolomide	T98G	28.3914358030645	0
+IPA-3	temozolomide	T98G	28.5661702948624	0
+Duvelisib	temozolomide	T98G	17.1657235633538	6
+ipriflavone	temozolomide	T98G	17.1199813891281	0
+isoliquiritigenin	temozolomide	T98G	22.1066418288922	9
+isoniazid	temozolomide	T98G	6.71270926117023	2
+Isotretinoin	temozolomide	T98G	28.9906443798978	5
+Istradefylline	temozolomide	T98G	25.2224900346303	8
+IVERMECTIN	temozolomide	T98G	12.889698653306	9
+Serdemetan	temozolomide	T98G	11.9235265700958	6
+JNJ-38877605	temozolomide	T98G	3.77968687311048	4
+JNJ-7706621	temozolomide	T98G	12.4561152320383	8
+kaempferol	temozolomide	T98G	6.55957696867435	1
+Ketanserin	temozolomide	T98G	6.60936426174257	6
+ketoprofen	temozolomide	T98G	6.98447383462817	5
+kinetin	temozolomide	T98G	12.3853806791428	5
+KPT-276	temozolomide	T98G	4.54195344949132	0
+KRN-633	temozolomide	T98G	32.420498009604	3
+Ku-0063794	temozolomide	T98G	38.2522159039095	8
+KU-60019	temozolomide	T98G	39.7704864436025	9
+KW-2449	temozolomide	T98G	3.54056580023079	3
+Lacidipine	temozolomide	T98G	6.48720509346852	3
+amygdalin	temozolomide	T98G	18.3264931893357	5
+lafutidine	temozolomide	T98G	14.3650961900702	4
+lamivudine	temozolomide	T98G	20.0673897623935	4
+Sonidegib	temozolomide	T98G	15.9292347635148	3
+ceritinib	temozolomide	T98G	62.5699649244259	8
+LDN-57444	temozolomide	T98G	17.5442582917284	9
+Lenalidomide	temozolomide	T98G	7.12120084558906	2
+Lenvatinib	temozolomide	T98G	40.7346317274481	5
+letrozole	temozolomide	T98G	17.1746436566807	8
+LEVOSIMENDAN	temozolomide	T98G	19.0642964616931	8
+Levosulpiride	temozolomide	T98G	5.73168645308324	6
+Licofelone	temozolomide	T98G	6.19583087799979	7
+Limonin	temozolomide	T98G	27.389601807155	8
+Linagliptin	temozolomide	T98G	14.2975912592543	6
+linezolid	temozolomide	T98G	11.1893631487188	5
+Linifanib	temozolomide	T98G	16.0167554393315	6
+Lithium citrate	temozolomide	T98G	11.134712129493	3
+Lomeguatrib	temozolomide	T98G	26.6242037587325	8
+lonidamine	temozolomide	T98G	20.7680126170803	7
+Lopinavir	temozolomide	T98G	4.54813904331018	4
+loratadine	temozolomide	T98G	7.93415139685945	8
+Lornoxicam	temozolomide	T98G	10.6701258651174	4
+lovastatin	temozolomide	T98G	31.0875545328176	2
+Lubiprostone	temozolomide	T98G	11.9077546271466	8
+GANDOTINIB	temozolomide	T98G	6.76799318335505	1
+Macitentan	temozolomide	T98G	7.40265783921977	4
+manidipine	temozolomide	T98G	31.226644646504	9
+Maraviroc	temozolomide	T98G	13.9654370032598	4
+Marbofloxacin	temozolomide	T98G	22.0665870514755	3
+Masitinib	temozolomide	T98G	34.0287373308959	5
+Mecarbinate	temozolomide	T98G	15.0034334844346	3
+menadione	temozolomide	T98G	15.0975631123114	5
+meprednisone	temozolomide	T98G	11.0349398982541	0
+6-Mercaptopurine	temozolomide	T98G	4.08626716834149	9
+methoxsalen	temozolomide	T98G	11.9367328667957	2
+methyclothiazide	temozolomide	T98G	4.38527455268854	9
+metronidazole	temozolomide	T98G	16.5904872531882	4
+Mevastatin	temozolomide	T98G	14.6029434909205	2
+MGCD-265	temozolomide	T98G	12.0754468150702	3
+miconazole	temozolomide	T98G	18.9066986537231	1
+mifepristone	temozolomide	T98G	13.2303093767215	9
+MIGLITOL	temozolomide	T98G	4.92760025333562	1
+milrinone	temozolomide	T98G	12.3493310491152	0
+mirtazapine	temozolomide	T98G	17.1319786356477	0
+MK-0752	temozolomide	T98G	12.2268364615196	1
+MK-2461	temozolomide	T98G	39.6075370304501	8
+MK-5108	temozolomide	T98G	16.8919123906139	8
+MK-8245	temozolomide	T98G	29.9379313237191	4
+Mocetinostat	temozolomide	T98G	9.18471549390119	0
+mometasone furoate	temozolomide	T98G	5.79071548033786	5
+Monobenzone	temozolomide	T98G	25.1506233326594	7
+Mosapride citrate	temozolomide	T98G	3.77365503032109	1
+Moxifloxacin hydrochloride	temozolomide	T98G	42.303925627784	9
+Mubritinib	temozolomide	T98G	3.97243692831823	9
+myricetin	temozolomide	T98G	7.86456146222711	9
+naftopidil	temozolomide	T98G	6.31886787442673	0
+Nanchangmycin	temozolomide	T98G	13.2167753318808	8
+naringenin	temozolomide	T98G	5.73314593692847	8
+NATAMYCIN	temozolomide	T98G	8.5174403326474	0
+nateglinide	temozolomide	T98G	19.6108315423942	0
+Necrostatin-1	temozolomide	T98G	20.5362201282056	1
+Nefiracetam	temozolomide	T98G	13.2516349244368	9
+Neratinib	temozolomide	T98G	19.1119862067367	6
+nevirapine	temozolomide	T98G	16.0905640631091	4
+niflumic acid	temozolomide	T98G	23.2707463501575	9
+Nilotinib	temozolomide	T98G	39.279039083872	0
+nimesulide	temozolomide	T98G	20.9084446171533	6
+nisoldipine	temozolomide	T98G	21.8888790792195	3
+NITAZOXANIDE	temozolomide	T98G	15.7914635711455	4
+nitrofurazone	temozolomide	T98G	12.3781657831975	7
+nizatidine	temozolomide	T98G	6.49810427588025	5
+NMS-873	temozolomide	T98G	21.1528435037987	0
+NOVOBIOCIN SODIUM	temozolomide	T98G	13.9383751492647	4
+NPS-2143	temozolomide	T98G	14.229859202063	6
+Nutlin-3	temozolomide	T98G	38.990807404778	3
+NVP-AEW541	temozolomide	T98G	45.7640366412501	2
+NVP-BHG712	temozolomide	T98G	103.054363622358	0
+Disufenton sodium	temozolomide	T98G	14.9705977761649	3
+nystatin	temozolomide	T98G	2.68043640031705	4
+OAC1	temozolomide	T98G	4.69326258425097	2
+Olaparib	temozolomide	T98G	55.8151799642037	5
+oligomycin A	temozolomide	T98G	15.2681630705553	2
+Olmesartan medoxomil	temozolomide	T98G	6.3675054855726	4
+OLOPATADINE HYDROCHLORIDE	temozolomide	T98G	22.6815318969296	9
+Omecamtiv mecarbil	temozolomide	T98G	13.3724619977171	8
+omeprazole	temozolomide	T98G	25.4950324607224	8
+orlistat	temozolomide	T98G	31.9453035727965	4
+Orotic acid	temozolomide	T98G	17.2752974297848	4
+OSI-027	temozolomide	T98G	20.7112016441931	1
+Linsitinib	temozolomide	T98G	26.3540607774557	9
+OSI-930	temozolomide	T98G	14.8538712167887	7
+OSU-03012	temozolomide	T98G	28.6068906817504	8
+Oxfendazole	temozolomide	T98G	26.1606114318964	7
+Oxymatrine	temozolomide	T98G	5.86718931915619	3
+oxytetracycline	temozolomide	T98G	13.8514497001207	1
+PA-824	temozolomide	T98G	22.3607326811597	2
+paclitaxel	temozolomide	T98G	3.58886374088536	5
+Paeoniflorin	temozolomide	T98G	26.7942643950528	2
+Pazopanib	temozolomide	T98G	39.338190574025	7
+Pelitinib	temozolomide	T98G	15.171326484774	3
+PF-04217903	temozolomide	T98G	23.3643131674724	8
+Gedatolisib	temozolomide	T98G	2.99596259632891	1
+PF-3845	temozolomide	T98G	63.3650323426937	3
+PF-4708671	temozolomide	T98G	37.123818396884	6
+PF-477736	temozolomide	T98G	40.7025885903515	3
+PH-797804	temozolomide	T98G	24.237433420297	3
+PHA-680632	temozolomide	T98G	31.6516547918205	7
+PHA-793887	temozolomide	T98G	12.3606997891551	3
+phloretin	temozolomide	T98G	9.49347065168675	8
+PHT-427	temozolomide	T98G	17.8959940560369	2
+PI-103	temozolomide	T98G	23.8473286752908	4
+piceatannol	temozolomide	T98G	5.21267041516444	2
+PIK-294	temozolomide	T98G	23.1016150654814	7
+PIK-93	temozolomide	T98G	32.0094797285857	6
+Pimasertib	temozolomide	T98G	78.4715224918149	7
+pimobendan	temozolomide	T98G	22.0142290107956	1
+piperine	temozolomide	T98G	2.87663530456889	1
+Pitavastatin calcium	temozolomide	T98G	26.1173398911055	3
+PLX-4720	temozolomide	T98G	35.8263090055004	2
+Polydatin	temozolomide	T98G	20.885074575825	2
+Pomalidomide	temozolomide	T98G	26.5559387006388	4
+Posaconazole	temozolomide	T98G	68.9252780473286	3
+PP242	temozolomide	T98G	18.7101794380826	6
+Pracinostat	temozolomide	T98G	14.6523327388527	8
+pregnenolone	temozolomide	T98G	15.3487232453844	0
+primidone	temozolomide	T98G	9.94075963779101	5
+Prochlorperazine dimaleate	temozolomide	T98G	12.240253186745	1
+progesterone	temozolomide	T98G	46.3908092074855	4
+propylthiouracil	temozolomide	T98G	8.14068448700558	4
+Puerarin	temozolomide	T98G	7.22539803611027	1
+Purmorphamine	temozolomide	T98G	17.8242675543466	6
+pyrazinamide	temozolomide	T98G	24.7909413544224	7
+quercetin	temozolomide	T98G	4.82854634073845	7
+Quizartinib	temozolomide	T98G	27.4638481153473	0
+Ramelteon	temozolomide	T98G	10.6663316328028	9
+ramipril	temozolomide	T98G	12.7629995050303	0
+RANOLAZINE	temozolomide	T98G	11.9660367520408	8
+rebamipide	temozolomide	T98G	36.4215122636435	6
+Regorafenib	temozolomide	T98G	32.8230844790413	1
+Repaglinide	temozolomide	T98G	6.45761539466869	4
+reserpine	temozolomide	T98G	19.9058993516038	1
+Resminostat	temozolomide	T98G	13.2100374318923	5
+resveratrol	temozolomide	T98G	8.56582357196667	9
+Rifaximin	temozolomide	T98G	17.0609544956041	2
+riluzole	temozolomide	T98G	14.1857847062112	8
+rimantadine	temozolomide	T98G	4.48951979764232	0
+risperidone	temozolomide	T98G	17.9378040654454	1
+RITA	temozolomide	T98G	3.27346022600069	5
+Ritodrine hydrochloride	temozolomide	T98G	4.43666080595984	5
+ritonavir	temozolomide	T98G	16.3166914146793	9
+Rivaroxaban	temozolomide	T98G	9.84751312644171	5
+Rivastigmine tartrate	temozolomide	T98G	14.0298483234459	6
+RKI-1447	temozolomide	T98G	10.4567632693224	7
+rofecoxib	temozolomide	T98G	15.9824155957815	6
+Roflumilast	temozolomide	T98G	21.4571510446072	3
+rolipram	temozolomide	T98G	15.9528078232215	3
+Rutaecarpine	temozolomide	T98G	21.8540779100303	9
+salicin	temozolomide	T98G	17.7288914561282	6
+Salidroside	temozolomide	T98G	10.8963877452065	3
+salinomycin	temozolomide	T98G	32.097877477711	1
+Saracatinib	temozolomide	T98G	50.2901439000855	6
+Saxagliptin	temozolomide	T98G	15.4081049994054	4
+SB-505124	temozolomide	T98G	18.8316246827837	9
+SB-705498	temozolomide	T98G	20.9606706360163	1
+Scopine	temozolomide	T98G	18.5681914271037	4
+Secnidazole	temozolomide	T98G	11.7639614803305	2
+Selumetinib	temozolomide	T98G	5.16975226288676	8
+Semaxanib	temozolomide	T98G	12.339239081155	5
+Sertraline hydrochloride	temozolomide	T98G	28.1836210298716	5
+sesamin	temozolomide	T98G	5.12050459104786	2
+SGI-1776	temozolomide	T98G	64.6843878906941	3
+SGX-523	temozolomide	T98G	53.2704247434751	1
+shikimic acid	temozolomide	T98G	10.2536726463333	8
+Silybin	temozolomide	T98G	23.7456715396115	3
+simvastatin	temozolomide	T98G	25.7573932983416	7
+Sophocarpine	temozolomide	T98G	7.22745683168656	7
+Sorafenib	temozolomide	T98G	37.618778346142	5
+Sotrastaurin	temozolomide	T98G	8.51717552081653	2
+sparfloxacin	temozolomide	T98G	37.7791037809177	3
+StemRegenin 1	temozolomide	T98G	26.1118751544251	5
+STF-62247	temozolomide	T98G	48.3838622858454	9
+STIGMASTEROL	temozolomide	T98G	3.49872547403653	2
+Streptomycin sulfate	temozolomide	T98G	9.53631078449651	3
+streptozocin	temozolomide	T98G	10.1094466712018	5
+sulfameter	temozolomide	T98G	3.39242682821609	7
+sulfamethizole	temozolomide	T98G	9.89025635754071	4
+sulfamethoxazole	temozolomide	T98G	14.521288147828	7
+sulfanilamide	temozolomide	T98G	22.4644095501437	0
+sulfapyridine	temozolomide	T98G	3.01307214847553	3
+Synephrine	temozolomide	T98G	3.59912368118388	1
+tacrolimus	temozolomide	T98G	21.2872618472371	0
+Tadalafil	temozolomide	T98G	7.22531889250359	5
+TAK-285	temozolomide	T98G	24.4651171481386	7
+TAK-715	temozolomide	T98G	16.267119590579	2
+TAK-733	temozolomide	T98G	30.9884054834251	6
+Tamibarotene	temozolomide	T98G	33.6879496046382	6
+Tamoxifen citrate	temozolomide	T98G	30.4642907422047	0
+Tandutinib	temozolomide	T98G	14.9539312681003	1
+Tariquidar	temozolomide	T98G	28.3248347715103	0
+tazarotene	temozolomide	T98G	39.0733767804517	5
+Tebipenem pivoxil	temozolomide	T98G	3.74053583062543	0
+Telatinib	temozolomide	T98G	27.9307445696381	9
+Telbivudine	temozolomide	T98G	7.96138283847052	0
+temozolomide	temozolomide	T98G	12.8305108308617	8
+Temsirolimus	temozolomide	T98G	13.3755972673682	7
+Teriflunomide	temozolomide	T98G	10.9179823220471	9
+tetrandrine	temozolomide	T98G	41.516078027876	0
+TGX-221	temozolomide	T98G	20.6384694710035	2
+theobromine	temozolomide	T98G	11.4372019240612	8
+thiabendazole	temozolomide	T98G	16.841276476097	2
+thiamphenicol	temozolomide	T98G	13.2898548898714	9
+Thiazovivin	temozolomide	T98G	14.5153454380259	4
+Tideglusib	temozolomide	T98G	7.229196330995	5
+tiopronin	temozolomide	T98G	21.2397114907482	4
+Tioxolone	temozolomide	T98G	15.0013570870018	6
+Tipifarnib	temozolomide	T98G	35.6025361325345	7
+Tivozanib	temozolomide	T98G	27.0970889629607	0
+Tofacitinib	temozolomide	T98G	21.6696057422666	6
+Tolterodine tartrate	temozolomide	T98G	13.0775904074909	0
+Tolvaptan	temozolomide	T98G	19.3601300877193	6
+Torcetrapib	temozolomide	T98G	29.3750305021955	6
+TOREMIFENE CITRATE	temozolomide	T98G	25.2560720175741	0
+Torasemide	temozolomide	T98G	6.53118708067547	9
+Tosedostat	temozolomide	T98G	10.4628524903434	2
+TPCA-1	temozolomide	T98G	22.0068968303321	1
+Trametinib	temozolomide	T98G	46.0502747617177	7
+tranexamic acid	temozolomide	T98G	11.7925420273125	4
+tranilast	temozolomide	T98G	4.01009591782016	9
+triamterene	temozolomide	T98G	17.8750685545194	4
+trichostatin A	temozolomide	T98G	3.05101536757873	1
+Triciribine	temozolomide	T98G	18.6452984584341	1
+Trifluridine	temozolomide	T98G	20.1566983960785	7
+TW-37	temozolomide	T98G	8.75607964813425	8
+uridine	temozolomide	T98G	10.1644246052675	3
+Valdecoxib	temozolomide	T98G	10.8936267047925	5
+Vandetanib	temozolomide	T98G	33.1113143583315	7
+Veliparib	temozolomide	T98G	53.9146296068216	9
+Vemurafenib	temozolomide	T98G	45.8265482533423	8
+Vidarabine	temozolomide	T98G	14.4297770813065	7
+vinblastine	temozolomide	T98G	4.04105134082518	5
+Vismodegib	temozolomide	T98G	6.55590274560462	5
+vitamin B12	temozolomide	T98G	11.6222829779477	3
+Voriconazole	temozolomide	T98G	14.2864494728575	5
+Vorinostat	temozolomide	T98G	14.4162974732841	7
+VX-702	temozolomide	T98G	33.6377179299951	4
+VX-765	temozolomide	T98G	4.60406795607888	1
+Lumacaftor	temozolomide	T98G	28.2906410854789	9
+WAY-600	temozolomide	T98G	25.2839310684921	2
+WHI-P154	temozolomide	T98G	26.3329763462807	2
+Wnt-C59	temozolomide	T98G	4.96461335441084	8
+wortmannin	temozolomide	T98G	19.3475709003591	6
+WYE-354	temozolomide	T98G	12.407129124603	2
+zalcitabine	temozolomide	T98G	7.92084646481124	4
+zanamivir	temozolomide	T98G	9.30350669422587	7
+Zebularine	temozolomide	T98G	18.6413444220255	5
+Zibotentan	temozolomide	T98G	7.65609677911267	1
+zidovudine	temozolomide	T98G	16.3808523744555	7
+ZILEUTON	temozolomide	T98G	33.9894675905029	4
+Zoledronic acid	temozolomide	T98G	11.6770374778152	0
+parthenolide	temozolomide	T98G	-0.0417742072720451	2
+7-Aminocephalosporanic acid	temozolomide	T98G	1.32425254111133	2
+ABT-737	temozolomide	T98G	-4.32962727299149	5
+acarbose	temozolomide	T98G	2.07398602336715	0
+acemetacin	temozolomide	T98G	-0.871183948493224	1
+albendazole	temozolomide	T98G	-0.497462314645588	3
+Alisertib	temozolomide	T98G	2.37626390433427	9
+AMG-900	temozolomide	T98G	0.357875390156948	4
+Amonafide	temozolomide	T98G	0.0189183518289155	6
+argatroban	temozolomide	T98G	-1.75416521957485	4
+Aripiprazole	temozolomide	T98G	2.50185064333691	7
+artemisinin	temozolomide	T98G	0.690239607329449	2
+AS-252424	temozolomide	T98G	0.217297444930523	6
+Asiatic acid	temozolomide	T98G	-3.96131618599747	1
+ATROPINE	temozolomide	T98G	-0.224353900391357	1
+beta-carotene	temozolomide	T98G	0.786118878433456	9
+betamethasone	temozolomide	T98G	-3.94651987183177	5
+betulinic acid	temozolomide	T98G	1.19956364629404	4
+NVP-BGT226	temozolomide	T98G	0.0014435777073487	3
+BMS-707035	temozolomide	T98G	-2.39177580826752	2
+Bortezomib	temozolomide	T98G	1.16534931379724	1
+bumetanide	temozolomide	T98G	-2.91511512284381	7
+CABAZITAXEL	temozolomide	T98G	0.296860202909187	4
+camptothecin	temozolomide	T98G	-2.44688713115451	3
+Canagliflozin	temozolomide	T98G	-3.52864532045094	1
+Carfilzomib	temozolomide	T98G	1.0410042067295	1
+cefditoren pivoxil	temozolomide	T98G	2.05661305007585	9
+Delanzomib	temozolomide	T98G	1.69941628581921	2
+Cephalomannine	temozolomide	T98G	1.01064643506024	7
+CHIR-124	temozolomide	T98G	-0.481039196140159	4
+chloramphenicol	temozolomide	T98G	-4.38263462819785	7
+Cilomilast	temozolomide	T98G	-4.1251895970194	0
+cilostazol	temozolomide	T98G	1.4677784558827	6
+CINCHONIDINE	temozolomide	T98G	1.37833039827938	2
+Cladribine	temozolomide	T98G	0.333221733531715	3
+Clofarabine	temozolomide	T98G	-1.20803871316113	3
+Crenolanib	temozolomide	T98G	0.656400141574338	5
+Cryptotanshinone	temozolomide	T98G	-0.40679215147302	8
+CUDC-907	temozolomide	T98G	0.042004555257293	8
+DANOPREVIR	temozolomide	T98G	-2.15829900621077	0
+daphnetin	temozolomide	T98G	-0.0920977918640613	3
+Dehydroepiandrosterone	temozolomide	T98G	0.93427959248505	5
+Dinaciclib	temozolomide	T98G	-3.01756376661041	0
+Dioscin	temozolomide	T98G	0.24844326311235	0
+disulfiram	temozolomide	T98G	2.13636234396903	4
+Dofetilide	temozolomide	T98G	-1.84615313129124	7
+doxifluridine	temozolomide	T98G	-3.53927987776747	0
+EMBELIN	temozolomide	T98G	-1.65912634272065	9
+Enalapril maleate	temozolomide	T98G	0.518792625101412	8
+Epirubicin hydrochloride	temozolomide	T98G	-1.00673743931384	9
+Epothilone A	temozolomide	T98G	1.74302451319278	8
+Epothilone B	temozolomide	T98G	1.77038944299235	9
+erythromycin	temozolomide	T98G	-0.720752626838657	8
+etodolac	temozolomide	T98G	2.2406885094355	4
+fenbendazole	temozolomide	T98G	-1.05741648760055	7
+finasteride	temozolomide	T98G	-2.51538337626709	6
+floxuridine	temozolomide	T98G	0.171378063736711	3
+Flubendazole	temozolomide	T98G	-1.23926697629143	5
+FLUTICASONE PROPIONATE	temozolomide	T98G	0.552697578835176	2
+formononetin	temozolomide	T98G	2.63830909977394	3
+GNF-2	temozolomide	T98G	0.0148820490604997	9
+Hordenine	temozolomide	T98G	1.1510613992106	6
+HYODEOXYCHOLIC ACID	temozolomide	T98G	-2.88913605449948	5
+isradipine	temozolomide	T98G	-3.25173388875758	7
+itraconazole	temozolomide	T98G	1.94880067635994	6
+ketoconazole	temozolomide	T98G	-0.195939908206039	5
+ketorolac	temozolomide	T98G	2.18792546154476	0
+Selinexor	temozolomide	T98G	0.571299592286309	2
+KW-2478	temozolomide	T98G	-1.90057520318257	2
+lansoprazole	temozolomide	T98G	-0.197392050086101	8
+Dacinostat	temozolomide	T98G	2.00255274341852	2
+Levonorgestrel	temozolomide	T98G	-0.0947061993336327	7
+Lincomycin hydrochloride	temozolomide	T98G	1.86821240893024	3
+lomustine	temozolomide	T98G	1.52601838683888	2
+Loteprednol etabonate	temozolomide	T98G	-0.632587116201379	1
+Rabusertib	temozolomide	T98G	-4.06873142218983	5
+Medroxyprogesterone acetate	temozolomide	T98G	-2.81775538105149	8
+Melatonin	temozolomide	T98G	1.99855453777743	8
+methocarbamol	temozolomide	T98G	-3.00570478880691	8
+methotrexate	temozolomide	T98G	-1.57497563783063	6
+metolazone	temozolomide	T98G	-1.19609572860639	8
+MG-132	temozolomide	T98G	0.307932445966941	8
+mitotane	temozolomide	T98G	1.69206951086689	7
+mizoribine	temozolomide	T98G	-1.02115905137495	4
+MK-2048	temozolomide	T98G	-1.79439156553169	1
+Ixazomib	temozolomide	T98G	1.15443059170518	6
+nalidixic acid	temozolomide	T98G	-3.39987239630613	3
+NICORANDIL	temozolomide	T98G	1.66559226525636	6
+nocodazole	temozolomide	T98G	-2.97094950707086	4
+Odanacatib	temozolomide	T98G	1.49812607805305	2
+OLEANOLIC ACID	temozolomide	T98G	-2.76797222684065	5
+Oprozomib	temozolomide	T98G	1.85344661588061	3
+Oridonin	temozolomide	T98G	1.29653647259453	1
+Oxibendazole	temozolomide	T98G	-0.695805146280875	9
+PANCURONIUM BROMIDE	temozolomide	T98G	-2.013751120554	7
+PCI-34051	temozolomide	T98G	-4.13429567509679	8
+pentamidine	temozolomide	T98G	-2.62132940844407	3
+PF-04691502	temozolomide	T98G	2.29854989692424	1
+Phlorizin	temozolomide	T98G	1.34504825266619	5
+PIK-293	temozolomide	T98G	-2.58969777892657	0
+PIK-75	temozolomide	T98G	-2.17325913472706	4
+PluriSln 1	temozolomide	T98G	1.18134088092143	2
+PONATINIB	temozolomide	T98G	-0.082280046759152	7
+Pralatrexate	temozolomide	T98G	-1.25485550866311	3
+praziquantel	temozolomide	T98G	-1.11361157256849	9
+pyrimethamine	temozolomide	T98G	-1.84868192725939	6
+QUISINOSTAT	temozolomide	T98G	2.21843077684345	0
+Rasagiline mesylate	temozolomide	T98G	2.44521783510359	6
+ribavirin	temozolomide	T98G	0.828223012287133	4
+Sclareolide	temozolomide	T98G	2.62910044230414	0
+SNS-032	temozolomide	T98G	1.77612552735991	0
+SNX-2112	temozolomide	T98G	-1.90729546344573	4
+STF-118804	temozolomide	T98G	1.55381347812629	1
+SULBACTAM	temozolomide	T98G	-1.16802311167217	4
+TAK-901	temozolomide	T98G	2.05153954783721	4
+Tanshinone I	temozolomide	T98G	1.39101682904874	0
+Telmisartan	temozolomide	T98G	1.66489790921381	0
+temocapril hydrochloride	temozolomide	T98G	-2.42403950665123	9
+teniposide	temozolomide	T98G	-2.5285404945088	1
+tinidazole	temozolomide	T98G	-1.99746588517053	6
+tioconazole	temozolomide	T98G	-1.25893119686337	7
+Tolcapone	temozolomide	T98G	-0.900709707579733	7
+topiramate	temozolomide	T98G	-0.919573176544301	9
+TOPOTECAN HYDROCHLORIDE	temozolomide	T98G	-0.841912035362299	8
+trichlormethiazide	temozolomide	T98G	1.88431044496028	8
+Trilostane	temozolomide	T98G	-3.02114606391916	9
+trimethoprim	temozolomide	T98G	-0.220559294579333	6
+triptolide	temozolomide	T98G	1.2156244698138	5
+UNC2250	temozolomide	T98G	2.47372792860621	3
+Varespladib	temozolomide	T98G	-2.8128226650582	7
+VE-821	temozolomide	T98G	0.570500995055113	1
+VECURONIUM BROMIDE	temozolomide	T98G	2.63098814192413	1
+Volasertib	temozolomide	T98G	-4.01950103939379	5
+Lomibuvir	temozolomide	T98G	-2.22510167275673	9
+Tozasertib	temozolomide	T98G	1.28814881765362	6
+zaltoprofen	temozolomide	T98G	-2.0193530874288	9
+Ziprasidone hydrochloride	temozolomide	T98G	-2.67715816415583	5
+zolmitriptan	temozolomide	T98G	1.17021853585421	2
+2-Methoxyestradiol	temozolomide	T98G	-52.9671235171088	8
+ADAPALENE	temozolomide	T98G	-4.78014642107601	4
+Agomelatine	temozolomide	T98G	-9.67295220146158	5
+alfacalcidol	temozolomide	T98G	-5.68227108073413	7
+aminoglutethimide	temozolomide	T98G	-14.0659111175751	6
+amisulpride	temozolomide	T98G	-10.1297037306053	9
+amorolfine hydrochloride	temozolomide	T98G	-23.6537755753134	6
+amphotericin b	temozolomide	T98G	-9.41466585458967	5
+Andarine	temozolomide	T98G	-13.6939850147928	3
+apigenin	temozolomide	T98G	-6.56000576333813	3
+Artesunate	temozolomide	T98G	-9.26595215736324	5
+Avagacestat	temozolomide	T98G	-8.9699039784607	8
+azathioprine	temozolomide	T98G	-7.24416219602131	0
+Baicalin	temozolomide	T98G	-5.28757067698307	7
+Balofloxacin	temozolomide	T98G	-7.82560515549192	9
+beta-Lapachone	temozolomide	T98G	-9.51439313835405	4
+biochanin A	temozolomide	T98G	-11.2999621214434	9
+Bleomycin sulfate	temozolomide	T98G	-5.51234172913018	8
+budesonide	temozolomide	T98G	-17.5957887994115	8
+bufexamac	temozolomide	T98G	-8.0469990329438	3
+caffeic acid	temozolomide	T98G	-6.04161353198973	9
+calcitriol	temozolomide	T98G	-22.8216337098494	1
+CAPECITABINE	temozolomide	T98G	-24.5101862456478	9
+cefdinir	temozolomide	T98G	-7.20049474824237	4
+Cefoselis sulfate	temozolomide	T98G	-14.8875604251415	8
+celecoxib	temozolomide	T98G	-11.887459438457	3
+CICLOPIROX	temozolomide	T98G	-5.56557900195892	6
+CLOBETASOL PROPIONATE	temozolomide	T98G	-8.00304788443503	4
+CPI-613	temozolomide	T98G	-9.56703853747198	4
+Cyclocytidine hydrochloride	temozolomide	T98G	-4.65084472522095	8
+CYTISINE	temozolomide	T98G	-5.27194037470069	2
+DAPTOMYCIN	temozolomide	T98G	-11.009882403038	5
+DEFLAZACORT	temozolomide	T98G	-5.54524383093971	5
+dexamethasone	temozolomide	T98G	-32.4437176340049	0
+DEXMEDETOMIDINE	temozolomide	T98G	-19.5661389809437	2
+Dexrazoxane	temozolomide	T98G	-8.83059255395634	9
+dichlorphenamide	temozolomide	T98G	-21.9715165422072	1
+Doxercalciferol	temozolomide	T98G	-28.5025750361734	1
+DOXOFYLLINE	temozolomide	T98G	-28.240741803774	2
+Drospirenone	temozolomide	T98G	-8.9690538713136	3
+edaravone	temozolomide	T98G	-14.1649488877156	8
+estrone	temozolomide	T98G	-4.74869901488954	3
+ethionamide	temozolomide	T98G	-9.88271408683957	6
+EXEMESTANE	temozolomide	T98G	-9.04551348076936	7
+Fisetin	temozolomide	T98G	-4.65370059629285	7
+fludarabine phosphate	temozolomide	T98G	-19.750168023333	3
+flumazenil	temozolomide	T98G	-19.3971223810816	7
+fluocinonide	temozolomide	T98G	-13.3917037522571	5
+Flupirtine maleate	temozolomide	T98G	-20.5207439155854	8
+tegafur	temozolomide	T98G	-24.1101299378685	2
+Gatifloxacin	temozolomide	T98G	-6.37724540982622	3
+Genipin	temozolomide	T98G	-24.0621408404107	6
+GESTODENE	temozolomide	T98G	-33.5031510222273	9
+Glycyrrhizic acid	temozolomide	T98G	-9.30190016001988	0
+HEMATOXYLIN	temozolomide	T98G	-11.3306359637877	7
+hydrocortisone	temozolomide	T98G	-8.24700936954557	1
+ifosfamide	temozolomide	T98G	-27.5513325883194	8
+Ilomastat	temozolomide	T98G	-13.3341453724825	3
+IMIQUIMOD	temozolomide	T98G	-6.15214590844146	4
+IOX2	temozolomide	T98G	-6.34257343701568	4
+Ivacaftor	temozolomide	T98G	-15.6085664506709	9
+JTC-801	temozolomide	T98G	-32.619977369179	4
+L-thyroxine	temozolomide	T98G	-5.09096934636166	2
+lamotrigine	temozolomide	T98G	-11.0681141814404	4
+leflunomide	temozolomide	T98G	-8.19201210494542	3
+Levetiracetam	temozolomide	T98G	-9.9976522294945	2
+LEVOFLOXACIN	temozolomide	T98G	-5.25239418927644	6
+Lonafarnib	temozolomide	T98G	-9.43642416131011	7
+Galunisertib	temozolomide	T98G	-10.165289731012	4
+malotilate	temozolomide	T98G	-17.6061463237585	1
+MEGESTROL ACETATE	temozolomide	T98G	-18.315429044407	0
+meglumine	temozolomide	T98G	-8.5959866638232	9
+mestranol	temozolomide	T98G	-9.48184335770226	2
+methylprednisolone	temozolomide	T98G	-17.5669781450545	8
+Milciclib	temozolomide	T98G	-6.38108040836286	4
+MK-1775	temozolomide	T98G	-6.15137476710727	8
+MPEP	temozolomide	T98G	-12.0820804551596	0
+mycophenolate mofetil	temozolomide	T98G	-14.0414540061681	5
+mycophenolic acid	temozolomide	T98G	-11.427725881218	0
+Nelarabine	temozolomide	T98G	-9.55398382708834	9
+Nepafenac	temozolomide	T98G	-14.8456795367144	5
+Otilonium Bromide	temozolomide	T98G	-9.97801180476811	2
+OXCARBAZEPINE	temozolomide	T98G	-32.0778909744242	5
+PAEONOL	temozolomide	T98G	-7.97948678958971	5
+PF-5274857	temozolomide	T98G	-12.1738604333867	0
+pirarubicin	temozolomide	T98G	-6.84811133043479	2
+PMSF	temozolomide	T98G	-13.5258599063446	1
+Prasugrel	temozolomide	T98G	-5.45836287845726	7
+PRAVASTATIN SODIUM	temozolomide	T98G	-10.0452847986285	8
+prednisolone	temozolomide	T98G	-23.84460987319	7
+prednisone	temozolomide	T98G	-7.26387339518891	6
+probenecid	temozolomide	T98G	-12.4371143801401	9
+probucol	temozolomide	T98G	-21.2394904299158	1
+Prucalopride	temozolomide	T98G	-10.0711061298289	2
+Racecadotril	temozolomide	T98G	-10.8539928226509	2
+Reboxetine mesylate	temozolomide	T98G	-15.6796649339712	1
+Rizatriptan benzoate	temozolomide	T98G	-10.8687502451547	7
+roxithromycin	temozolomide	T98G	-9.41179669333144	1
+Rufinamide	temozolomide	T98G	-14.0574489466557	1
+SARAFLOXACIN HYDROCHLORIDE	temozolomide	T98G	-4.84916452979885	4
+Silodosin	temozolomide	T98G	-5.9151908197115	2
+7-Ethyl-10-hydroxycamptothecin	temozolomide	T98G	-5.84121314024844	0
+sotalol	temozolomide	T98G	-5.47955321576606	6
+spironolactone	temozolomide	T98G	-13.87216714285	6
+Orteronel	temozolomide	T98G	-17.2328878514589	0
+Tanshinone IIA	temozolomide	T98G	-6.78947322900244	1
+Tenofovir Disoproxil Fumarate	temozolomide	T98G	-12.1882684446632	5
+thalidomide	temozolomide	T98G	-13.8861193443493	7
+Tigecycline	temozolomide	T98G	-10.2358013884118	0
+tolnaftate	temozolomide	T98G	-12.4493238239229	6
+TRIAMCINOLONE ACETONIDE	temozolomide	T98G	-18.359775754652	0
+trospium chloride	temozolomide	T98G	-25.0028824209193	6
+Ursolic acid	temozolomide	T98G	-15.6477139887371	1
+zafirlukast	temozolomide	T98G	-8.74679598945958	9
+zonisamide	temozolomide	T98G	-24.6356383793252	3
