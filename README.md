@@ -1,7 +1,7 @@
 # MGAE-DC
 This is the implementation code of MGAE-DC, a deep learning framework for predicting the synergistic effects of drug combinations through multi-channel graph autoencoders.
 
-![the schematic of MGAE-DC](.fig1.png)
+![the schematic of MGAE-DC](fig1.png)
 
 ## Requirements
 Python 3.8 or higher  
