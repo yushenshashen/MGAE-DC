@@ -49,6 +49,8 @@ This script is used to predict the synergistic effects of drug combinations in t
 
 
 ###Predicting with pretrained model
+
+
 The size of pretrained models are too large, so they are accessible with baidu netdisk [links](https://pan.baidu.com/s/1lKo-sYSD_q-DfXCKMzmKpg). 密码：bkri.
 
 
