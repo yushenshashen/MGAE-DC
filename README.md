@@ -37,6 +37,7 @@ This script is used to extract the cell line-specific and common drug embeddings
 python codes/get_oneil_mgaedc.py -learning_rate 0.01 -epochs 500 -batch 320 -drop_out 0.2 -hidden 8192 -patience 100 
 This script is used to predict the synergistic effects of drug combinations in the predictore module.
 
+
 |Argument|Default|Description|
 |---|---|----|
 | learning_rate|  0.01|  Initial learning rate. |
@@ -45,6 +46,10 @@ This script is used to predict the synergistic effects of drug combinations in t
 | hidden|  0.2|  Dropout rate (1 - keep probability) |
 | weight_decay|  1024|  (n, n/2, 1) The hidden size for NN. |
 | patience|  100|  the patience for early stop. |
+
+
+###Predicting with pretrained model
+The size of pretrained models are too large, so they are accessible with baidu netdisk [links](https://pan.baidu.com/s/1lKo-sYSD_q-DfXCKMzmKpg). 密码：bkri.
 
 
 ## Reference
